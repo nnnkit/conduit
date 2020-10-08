@@ -18,15 +18,10 @@
   - /api/users
   - Data Sample: `{user: {email: "a@gmail.com", password: "hello123", username: "test123"}}`
 
-- Signup (POST)
-
-  - /api/users
-  - Data Sample: `{user: {email: "a@gmail.com", password: "hello123", username: "test123"}}`
-
 - Verify User (GET)
 
   - /api/user
-  - You need to add `authorization: Token ..`
+  - You need to add `authorization: Token ..` in header
 
 - Public Articles (GET)
   - /api/articles?limit=10&offset=0
@@ -41,11 +36,11 @@
 #### Day 1
 
 - [ ] React + React Router DOM + Formik setup
-- [ ] Home Page (Public)
-- [ ] Login Page
-- [ ] Signup Page
+- [ ] Home Page (Public) - 45 Minutes
+- [ ] Login Page - 30 Minutes
+- [ ] Signup Page - 30 Minutes
 - [ ] Private Articles Page
-- [ ] Complete Authentication
+- [ ] Complete Authentication - 90 Minutes
 
 > React + React Router DOM + Formik setup
 
