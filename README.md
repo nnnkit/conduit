@@ -96,3 +96,5 @@ Setup create react app with the following requirements:
 - Hard refresh will validate and move to respective pages
 
 #### Day 2
+
+For other information use this [link](https://github.com/gothinkster/realworld/tree/master/api)
