@@ -33,7 +33,7 @@
 
 ### Steps
 
-#### Day 1
+#### Day 1 - 2
 
 - [ ] React + React Router DOM
 - [ ] Home Page (Public) - 45 Minutes
