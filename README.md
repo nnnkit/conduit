@@ -35,7 +35,7 @@
 
 #### Day 1
 
-- [ ] React + React Router DOM + Formik setup
+- [ ] React + React Router DOM
 - [ ] Home Page (Public) - 45 Minutes
 - [ ] Login Page - 30 Minutes
 - [ ] Signup Page - 30 Minutes
